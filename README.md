@@ -12,8 +12,8 @@ well-documented: Arduino, HTML5 and javascript. The hope is to leverage common m
  3. Arduino core libraries for the [ESP8266](http://esp8266.github.io/Arduino/versions/2.3.0/doc/libraries.html#mdns-and-dns-sd-responder-esp8266mdns-library). 
  4. Control over WiFi from a mobile device or computer via a browser-based user interface.
  5. Cardboard robot body, ranging from a simple box, to a laser cut design from CAD. OnShape files for the parts, and a sample robot body for the ["(BOX) Factory of Sadness"](https://cad.onshape.com/documents/e8cde76fb8fa97701da61992/w/c29f61e2e364ccd29e25da63/e/e3f6378e05fc7aa48f5b6eb2) robot make a good starting point.
- 5a.If you don't want to make a cardboard robot, this under-$15 kit could be used to make fun robot to drive around.  Available
-    [here](https://www.aliexpress.com/item/32906554090.html?productId=32906554090)
+ 6. If you don't want to make a cardboard robot, this under-$15 kit could be used to make fun robot to drive around.  Available
+    [here](https://www.aliexpress.com/item/32906554090.html?productId=32906554090).
  
 The goal is to keep the cost of a base "kit" to under 20USD.
 
